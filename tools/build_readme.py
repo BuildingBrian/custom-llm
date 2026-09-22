@@ -399,7 +399,7 @@ w(f"""
 One formatting detail worth stating openly: the notebook's chunker splits imported text at every sentence-ending period followed by
 a space, which would cut a three-sentence negation story into three unrelated one-sentence passages. To keep each story as **one**
 training passage, the generator writes the period attached to the next word (`not white .it is blue`); the tokenizer normalises this
-to standard `. ` spacing, as you can see in [corpus.txt](evidence/expanded/corpus.txt). This affects only passage boundaries, not what text the model sees.
+to standard `. ` spacing, visible in [corpus.txt](evidence/expanded/corpus.txt). This affects only passage boundaries, not what text the model sees.
 
 ### 4.5 Re-running the evals on the saved model
 
@@ -421,7 +421,7 @@ Generating replies never updates weights or touches the corpus.
 ```bash
 .venv/bin/python chat.py --model evidence/expanded/model.pt --transcript my_chat.json
 ```
-Type a prompt, press Enter, type `/quit` to exit; the transcript is saved to the file you name.
+Type a prompt, press Enter, type `/quit` to exit; the transcript is saved to the named file.
 
 **Model / run identity:** `llm_runs/{run_id['expanded']}` (Experiment 2, {chat_t['completed_steps']:,} steps), model sha256 `{chat_t['model_sha256']}`.
 
@@ -443,7 +443,7 @@ vocabulary, so the model received `<UNK> <UNK> <UNK> yesterday` and produced an 
 partial coverage: three unknown words plus `today` yield a grammatical-looking but meaningless string. Turns 2–4 show the
 taught patterns transferring to prompts that are not in the corpus ("tall"→"short", "trout"→"fish", "the cup … green").
 
-## 6. What I learned (in my own words)
+## 6. What I learned
 
 1. **Corpus.** My corpus is 6,559 short passages: 4,592 template sentences about eight everyday domains plus my 1,967 teaching
    sentences. It can teach *which words go together in which slots* — that is all it contains. It cannot teach grammar it never shows
@@ -501,9 +501,30 @@ folder and ZIP. To inspect embeddings, open [`embedding-viewer.html`](embedding-
 `evidence/expanded/checkpoint.json` (the PCA map compresses 64 dimensions to 2; the neighbour list uses the full space).
 Evals and chat: sections 4.5 and 5. This repository was verified signed out before submission.
 
+## 9. Reflection and where I go from here
+
+I was skeptical going in. Even once I understood the mechanics, I expected the "learning" to be memorisation: the network
+would store the template sentences and play them back, and any eval it passed would be a sentence it had already seen.
+Three results changed my mind. The 16 reserved prompts were withheld from training and the trained model still answered all
+16. The 8 rephrasings it had never seen went from 4 to 7 correct once the corpus had more sentence shapes. And it answered
+"the opposite of hot is" with *cold* although that sentence never appears anywhere in the corpus; it only ever saw "hot is the
+opposite of cold", "the soup is hot , not cold" and "the opposite of cold is hot". It combined a frame learned from other
+pairs with an association learned from other sentences. That is learning a relationship, not a lookup table of frequent
+next words. I want to be precise about the limit: the relationships are narrow (word associations and template shapes),
+negation is a pattern it did not learn, and the chat falls apart on any unknown word. But within its small world the network
+generalised, and the failures showed me *what kind* of pattern a model this size can and cannot pick up.
+
+I plan to keep experimenting with this notebook rather than stop at the submission: the negation experiment in section 7
+first, then teaching files for the remaining five categories, then a 4-block model to see whether depth changes the negation
+result. Beyond text, I want to train models on visual learning next: a small classifier that tells images apart, and later a
+small generative model that produces images, using the same loop I now understand (data, loss, gradients, updates, held-out
+evaluation). These runs will outgrow a laptop CPU quickly, so I am now considering hardware for training models at home and
+would appreciate the professor's recommendations on what makes sense for a student at this stage, or whether cloud GPUs are
+the better first step.
+
 **Acknowledgements.** nanoGPT © Andrej Karpathy, MIT licence ([NANOGPT_LICENSE](NANOGPT_LICENSE)). Notebook, eval suite and chat
 interface by the course instructor ([pepealonso95/custom-llm](https://github.com/pepealonso95/custom-llm)). I used Claude (Anthropic)
-as the AI assistant the assignment describes: to generate the synthetic teaching sentences, write the two helper scripts and this README's
+as my AI assistant: to generate the synthetic teaching sentences, write the two helper scripts and this README's
 tables from the saved outputs, and explain the notebook to me step by step. All runs, numbers and evidence are from my own machine.
 """)
 (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
