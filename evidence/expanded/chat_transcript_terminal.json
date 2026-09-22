@@ -1,0 +1,60 @@
+{
+  "model": "llm_runs/20260922T044308_125561Z/model.pt",
+  "model_sha256": "5593b08e1e84afcc7a136b720178e4af76c4e360032c587074677d9d3066a2a3",
+  "completed_steps": 3000,
+  "fresh_context_per_prompt": true,
+  "temperature": 0.8,
+  "max_tokens": 24,
+  "turns": [
+    {
+      "prompt": "the customer",
+      "seed": 2026,
+      "response": "recommended the product after checking the price .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the opposite of tall is",
+      "seed": 2027,
+      "response": "short .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "a trout is a",
+      "seed": 2028,
+      "response": "fish .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "the cup is not red . it is green . the cup is",
+      "seed": 2029,
+      "response": "green .",
+      "unknown_prompt_words": [],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "my laptop crashed yesterday",
+      "seed": 2030,
+      "response": ".",
+      "unknown_prompt_words": [
+        "crashed",
+        "laptop",
+        "my"
+      ],
+      "prompt_truncated": false
+    },
+    {
+      "prompt": "hello how are you today",
+      "seed": 2031,
+      "response": "our we we they a kai floor is the opposite of yesterday .",
+      "unknown_prompt_words": [
+        "hello",
+        "how",
+        "you"
+      ],
+      "prompt_truncated": false
+    }
+  ]
+}

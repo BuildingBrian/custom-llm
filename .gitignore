@@ -9,3 +9,5 @@ names.txt
 
 /results/
 /chat_transcript.json
+
+!/corpus/*.txt

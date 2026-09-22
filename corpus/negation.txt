@@ -1,0 +1,620 @@
+ava did not choose cheese .she chose juice .ava chose juice .
+ava did not choose pasta .she chose juice .ava chose juice .
+ava did not eat the butter .she ate the rice .ava ate the rice .
+ava did not order butter .she ordered meat .ava ordered meat .
+ava did not order coffee .she ordered meat .
+ava did not order jam .she ordered meat .ava ordered meat .
+ava did not order water .she ordered meat .ava ordered meat .
+ava did not pick the cheese .she picked the juice .ava picked the juice .
+ava did not take honey .she took soup .ava took soup .
+ava did not take the meat .she took the bread .ava took the bread .
+ava did not want juice .she wanted jam .ava wanted jam .
+ava did not want the coffee .she wanted the meat .ava wanted the meat .
+ben did not buy bread .he bought fish .ben bought fish .
+ben did not buy tea .he bought salad .
+ben did not buy the butter .he bought the salad .ben bought the salad .
+ben did not buy the jam .he bought the rice .ben bought the rice .
+ben did not choose bread .he chose milk .
+ben did not choose butter .he chose tea .
+ben did not choose water .he chose fish .ben chose fish .
+ben did not eat cake .he ate fish .
+ben did not eat rice .he ate butter .ben ate butter .
+ben did not eat the bread .he ate the salad .ben ate the salad .
+ben did not order juice .he ordered meat .ben ordered meat .
+ben did not order soup .he ordered tea .ben ordered tea .
+ben did not order the bread .he ordered the pasta .ben ordered the pasta .
+ben did not order the jam .he ordered the milk .ben ordered the milk .
+ben did not order the jam .he ordered the water .ben ordered the water .
+ben did not pick honey .he picked pasta .ben picked pasta .
+ben did not pick salad .he picked pasta .
+ben did not pick tea .he picked soup .
+ben did not pick the fish .he picked the honey .ben picked the honey .
+ben did not pick the soup .he picked the honey .ben picked the honey .
+ben did not take meat .he took water .ben took water .
+ben did not take rice .he took honey .
+ben did not take soup .he took cheese .ben took cheese .
+ben did not take water .he took rice .ben took rice .
+cara did not buy the honey .she bought the milk .cara bought the milk .
+cara did not buy the salad .she bought the butter .cara bought the butter .
+cara did not choose cheese .she chose cake .
+cara did not choose jam .she chose fish .
+cara did not eat butter .she ate bread .
+cara did not eat pasta .she ate bread .cara ate bread .
+cara did not eat the cake .she ate the meat .cara ate the meat .
+cara did not order cheese .she ordered juice .
+cara did not order juice .she ordered meat .cara ordered meat .
+cara did not order the butter .she ordered the bread .cara ordered the bread .
+cara did not pick cheese .she picked juice .cara picked juice .
+cara did not pick cheese .she picked tea .cara picked tea .
+cara did not pick honey .she picked cheese .cara picked cheese .
+cara did not pick milk .she picked fish .cara picked fish .
+cara did not pick rice .she picked cheese .cara picked cheese .
+cara did not pick tea .she picked cake .cara picked cake .
+cara did not take coffee .she took pasta .cara took pasta .
+cara did not take fish .she took tea .
+cara did not want cheese .she wanted bread .cara wanted bread .
+cara did not want fish .she wanted jam .cara wanted jam .
+cara did not want fish .she wanted tea .
+cara did not want juice .she wanted coffee .
+cara did not want meat .she wanted rice .
+cara did not want rice .she wanted salad .
+dan did not choose juice .he chose milk .dan chose milk .
+dan did not eat meat .he ate rice .
+dan did not eat rice .he ate jam .dan ate jam .
+dan did not eat the salad .he ate the bread .dan ate the bread .
+dan did not order butter .he ordered bread .
+dan did not order butter .he ordered salad .dan ordered salad .
+dan did not order the salad .he ordered the meat .dan ordered the meat .
+dan did not order water .he ordered salad .dan ordered salad .
+dan did not order water .he ordered tea .
+dan did not pick bread .he picked butter .dan picked butter .
+dan did not pick honey .he picked jam .dan picked jam .
+dan did not pick honey .he picked meat .
+dan did not pick milk .he picked coffee .
+dan did not pick the tea .he picked the pasta .dan picked the pasta .
+dan did not take bread .he took honey .
+dan did not take cheese .he took fish .dan took fish .
+dan did not take the coffee .he took the cake .dan took the cake .
+dan did not take the juice .he took the jam .dan took the jam .
+dan did not want butter .he wanted salad .dan wanted salad .
+dan did not want butter .he wanted soup .dan wanted soup .
+dan did not want rice .he wanted honey .
+dan did not want the salad .he wanted the tea .dan wanted the tea .
+dan did not want the soup .he wanted the bread .dan wanted the bread .
+eli did not buy bread .he bought cake .eli bought cake .
+eli did not buy bread .he bought fish .
+eli did not buy jam .he bought pasta .
+eli did not buy pasta .he bought honey .
+eli did not buy the bread .he bought the soup .eli bought the soup .
+eli did not buy the butter .he bought the coffee .eli bought the coffee .
+eli did not buy the juice .he bought the meat .eli bought the meat .
+eli did not buy the soup .he bought the meat .eli bought the meat .
+eli did not choose butter .he chose meat .
+eli did not choose the coffee .he chose the soup .eli chose the soup .
+eli did not eat pasta .he ate cheese .
+eli did not eat rice .he ate honey .eli ate honey .
+eli did not eat the butter .he ate the bread .eli ate the bread .
+eli did not eat the cheese .he ate the butter .eli ate the butter .
+eli did not eat the honey .he ate the cake .eli ate the cake .
+eli did not order tea .he ordered water .eli ordered water .
+eli did not order the juice .he ordered the salad .eli ordered the salad .
+eli did not pick cake .he picked milk .eli picked milk .
+eli did not pick the water .he picked the pasta .eli picked the pasta .
+eli did not take fish .he took milk .
+eli did not take milk .he took bread .
+eli did not take the coffee .he took the salad .eli took the salad .
+eli did not take the juice .he took the milk .eli took the milk .
+eli did not take water .he took salad .eli took salad .
+eli did not want rice .he wanted milk .
+eli did not want salad .he wanted cheese .eli wanted cheese .
+fay did not buy cake .she bought coffee .
+fay did not buy jam .she bought fish .fay bought fish .
+fay did not buy juice .she bought coffee .
+fay did not choose juice .she chose rice .
+fay did not choose the juice .she chose the honey .fay chose the honey .
+fay did not choose the juice .she chose the salad .fay chose the salad .
+fay did not choose the pasta .she chose the tea .fay chose the tea .
+fay did not eat cake .she ate jam .
+fay did not eat honey .she ate soup .fay ate soup .
+fay did not order meat .she ordered tea .
+fay did not order soup .she ordered jam .
+fay did not order water .she ordered tea .
+fay did not pick the butter .she picked the fish .fay picked the fish .
+fay did not pick the salad .she picked the fish .fay picked the fish .
+fay did not take juice .she took bread .fay took bread .
+fay did not take meat .she took jam .fay took jam .
+fay did not take the coffee .she took the rice .fay took the rice .
+fay did not take the honey .she took the jam .fay took the jam .
+fay did not want cake .she wanted meat .fay wanted meat .
+fay did not want coffee .she wanted honey .
+fay did not want honey .she wanted juice .
+fay did not want soup .she wanted tea .
+fay did not want the cheese .she wanted the bread .fay wanted the bread .
+fay did not want the water .she wanted the meat .fay wanted the meat .
+gus did not buy cake .he bought salad .
+gus did not buy jam .he bought rice .
+gus did not buy milk .he bought coffee .gus bought coffee .
+gus did not buy the rice .he bought the meat .gus bought the meat .
+gus did not buy the salad .he bought the rice .gus bought the rice .
+gus did not choose the milk .he chose the salad .gus chose the salad .
+gus did not eat cheese .he ate bread .gus ate bread .
+gus did not eat fish .he ate cheese .
+gus did not eat jam .he ate cake .gus ate cake .
+gus did not eat salad .he ate soup .
+gus did not eat the pasta .he ate the bread .gus ate the bread .
+gus did not order cheese .he ordered fish .gus ordered fish .
+gus did not order fish .he ordered soup .
+gus did not order the bread .he ordered the pasta .gus ordered the pasta .
+gus did not order the meat .he ordered the rice .gus ordered the rice .
+gus did not order the salad .he ordered the cake .gus ordered the cake .
+gus did not pick the cake .he picked the salad .gus picked the salad .
+gus did not pick the juice .he picked the bread .gus picked the bread .
+gus did not take pasta .he took honey .
+gus did not take the tea .he took the jam .gus took the jam .
+gus did not want cake .he wanted salad .
+gus did not want juice .he wanted coffee .gus wanted coffee .
+gus did not want pasta .he wanted bread .gus wanted bread .
+gus did not want soup .he wanted cake .
+gus did not want the tea .he wanted the soup .gus wanted the soup .
+hana did not buy butter .she bought cake .hana bought cake .
+hana did not buy salad .she bought tea .
+hana did not buy tea .she bought butter .hana bought butter .
+hana did not buy the coffee .she bought the salad .hana bought the salad .
+hana did not buy water .she bought milk .hana bought milk .
+hana did not choose cake .she chose jam .
+hana did not choose cake .she chose milk .hana chose milk .
+hana did not choose jam .she chose salad .
+hana did not choose pasta .she chose tea .hana chose tea .
+hana did not eat soup .she ate salad .
+hana did not eat the jam .she ate the fish .hana ate the fish .
+hana did not order bread .she ordered jam .hana ordered jam .
+hana did not order the juice .she ordered the pasta .hana ordered the pasta .
+hana did not pick butter .she picked cake .
+hana did not pick cheese .she picked juice .hana picked juice .
+hana did not pick jam .she picked tea .
+hana did not pick milk .she picked butter .
+hana did not pick the coffee .she picked the fish .hana picked the fish .
+hana did not pick the milk .she picked the butter .hana picked the butter .
+hana did not take bread .she took pasta .
+hana did not take salad .she took milk .hana took milk .
+hana did not take soup .she took tea .
+hana did not want butter .she wanted coffee .
+hana did not want honey .she wanted tea .
+hana did not want milk .she wanted tea .hana wanted tea .
+hana did not want soup .she wanted water .
+hana did not want the salad .she wanted the cheese .hana wanted the cheese .
+ivan did not buy honey .he bought butter .
+ivan did not choose bread .he chose butter .ivan chose butter .
+ivan did not choose honey .he chose jam .
+ivan did not choose honey .he chose meat .ivan chose meat .
+ivan did not choose the honey .he chose the bread .ivan chose the bread .
+ivan did not eat butter .he ate cheese .ivan ate cheese .
+ivan did not order bread .he ordered juice .
+ivan did not order the jam .he ordered the butter .ivan ordered the butter .
+ivan did not pick jam .he picked pasta .ivan picked pasta .
+ivan did not pick milk .he picked cake .
+ivan did not pick soup .he picked milk .ivan picked milk .
+ivan did not take milk .he took butter .ivan took butter .
+ivan did not take milk .he took honey .ivan took honey .
+ivan did not take the cake .he took the soup .ivan took the soup .
+ivan did not take the juice .he took the coffee .ivan took the coffee .
+ivan did not take the juice .he took the soup .ivan took the soup .
+ivan did not want honey .he wanted cheese .
+ivan did not want meat .he wanted pasta .
+ivan did not want milk .he wanted cake .ivan wanted cake .
+ivan did not want the cake .he wanted the soup .ivan wanted the soup .
+ivan did not want water .he wanted salad .
+jade did not buy pasta .she bought salad .jade bought salad .
+jade did not buy rice .she bought bread .
+jade did not choose honey .she chose tea .jade chose tea .
+jade did not choose the rice .she chose the pasta .jade chose the pasta .
+jade did not eat honey .she ate fish .jade ate fish .
+jade did not order cake .she ordered tea .
+jade did not order cake .she ordered tea .jade ordered tea .
+jade did not order fish .she ordered jam .jade ordered jam .
+jade did not pick the cheese .she picked the tea .jade picked the tea .
+jade did not pick the coffee .she picked the meat .jade picked the meat .
+jade did not pick the rice .she picked the soup .jade picked the soup .
+jade did not take pasta .she took tea .
+jade did not want cake .she wanted fish .jade wanted fish .
+jade did not want jam .she wanted salad .
+jade did not want pasta .she wanted soup .
+kai did not buy milk .he bought tea .kai bought tea .
+kai did not buy the milk .he bought the jam .kai bought the jam .
+kai did not choose honey .he chose bread .kai chose bread .
+kai did not choose the honey .he chose the butter .kai chose the butter .
+kai did not choose the milk .he chose the jam .kai chose the jam .
+kai did not choose the pasta .he chose the cheese .kai chose the cheese .
+kai did not choose the soup .he chose the cake .kai chose the cake .
+kai did not eat the rice .he ate the meat .kai ate the meat .
+kai did not order cake .he ordered salad .
+kai did not order honey .he ordered pasta .kai ordered pasta .
+kai did not order meat .he ordered pasta .
+kai did not order tea .he ordered fish .kai ordered fish .
+kai did not pick the butter .he picked the cake .kai picked the cake .
+kai did not pick the rice .he picked the cake .kai picked the cake .
+kai did not take the coffee .he took the fish .kai took the fish .
+kai did not take the fish .he took the water .kai took the water .
+kai did not take the meat .he took the milk .kai took the milk .
+kai did not want rice .he wanted cheese .kai wanted cheese .
+kai did not want the rice .he wanted the cake .kai wanted the cake .
+lena did not buy meat .she bought tea .lena bought tea .
+lena did not buy the rice .she bought the butter .lena bought the butter .
+lena did not buy the salad .she bought the butter .lena bought the butter .
+lena did not choose cake .she chose soup .
+lena did not choose coffee .she chose cake .
+lena did not choose fish .she chose butter .lena chose butter .
+lena did not eat the bread .she ate the honey .lena ate the honey .
+lena did not order juice .she ordered meat .
+lena did not order the cheese .she ordered the jam .lena ordered the jam .
+lena did not pick cake .she picked milk .
+lena did not pick jam .she picked juice .
+lena did not pick the bread .she picked the cheese .lena picked the cheese .
+lena did not take the milk .she took the pasta .lena took the pasta .
+lena did not want the soup .she wanted the rice .lena wanted the rice .
+mia did not buy the tea .she bought the pasta .mia bought the pasta .
+mia did not choose cheese .she chose salad .mia chose salad .
+mia did not choose fish .she chose water .mia chose water .
+mia did not choose rice .she chose fish .mia chose fish .
+mia did not choose the juice .she chose the cheese .mia chose the cheese .
+mia did not drink the coffee .she drank the milk .mia drank the milk .
+mia did not eat cake .she ate pasta .mia ate pasta .
+mia did not order fish .she ordered butter .mia ordered butter .
+mia did not order tea .she ordered water .
+mia did not order the meat .she ordered the honey .mia ordered the honey .
+mia did not pick honey .she picked cake .mia picked cake .
+mia did not pick rice .she picked soup .mia picked soup .
+mia did not pick water .she picked butter .
+mia did not take fish .she took jam .
+mia did not take jam .she took juice .mia took juice .
+mia did not take pasta .she took rice .mia took rice .
+mia did not take the pasta .she took the rice .mia took the rice .
+mia did not want milk .she wanted honey .
+mia did not want the honey .she wanted the soup .mia wanted the soup .
+the bag is blue , not black .
+the bag is brown , not red .
+the bag is hard , not soft .
+the bag is hot , not cold .
+the bag is not black .it is green .the bag is green .
+the bag is not blue .it is green .so the bag is green .
+the bag is not blue .it is grey .so the bag is grey .
+the bag is not blue .it is red .so the bag is red .
+the bag is not blue .it is white .
+the bag is not brown .it is blue .so the bag is blue .
+the bag is not brown .it is red .the bag is red .
+the bag is not hard .it is soft .
+the bag is not new .it is old .the bag is old .
+the bag is not wide .it is narrow .the bag is narrow .
+the bag is not yellow .it is pink .
+the bag is red , not white .
+the bag is yellow , not white .
+the ball is black , not pink .
+the ball is green , not yellow .
+the ball is grey , not red .
+the ball is narrow , not wide .
+the ball is not black .it is blue .the ball is blue .
+the ball is not black .it is yellow .so the ball is yellow .
+the ball is not blue .it is red .the ball is red .
+the ball is not brown .it is green .the ball is green .
+the ball is not clean .it is dirty .
+the ball is not cold .it is hot .the ball is hot .
+the ball is not grey .it is pink .
+the ball is not pink .it is yellow .the ball is yellow .
+the ball is not wet .it is dry .
+the ball is not wet .it is dry .so the ball is dry .
+the ball is not wet .it is dry .the ball is dry .
+the ball is not white .it is black .
+the ball is not white .it is green .so the ball is green .
+the ball is not white .it is red .the ball is red .
+the ball is not yellow .it is white .
+the ball is pink , not grey .
+the ball is white , not blue .
+the ball is wide , not narrow .
+the book is here , not missing .
+the book is not black .it is green .
+the book is not brown .it is grey .so the book is grey .
+the book is not dry .it is wet .so the book is wet .
+the book is not green .it is grey .
+the book is not green .it is grey .the book is grey .
+the book is not red .it is brown .the book is brown .
+the book is not soft .it is hard .
+the book is not wet .it is dry .so the book is dry .
+the book is not white .it is green .
+the book is not white .it is grey .the book is grey .
+the book is not white .it is pink .the book is pink .
+the book is not yellow .it is brown .
+the book is not yellow .it is green .the book is green .
+the book is not yellow .it is pink .so the book is pink .
+the book is not yellow .it is white .so the book is white .
+the book is open , not closed .
+the book is white , not green .
+the book is white , not grey .
+the bottle is blue , not brown .
+the bottle is green , not white .
+the bottle is grey , not white .
+the bottle is not black .it is red .the bottle is red .
+the bottle is not brown .it is green .the bottle is green .
+the bottle is not dirty .it is clean .
+the bottle is not missing .it is here .the bottle is here .
+the bottle is not pink .it is blue .so the bottle is blue .
+the bottle is pink , not blue .
+the box is clean , not dirty .
+the box is empty , not full .
+the box is not black .it is grey .
+the box is not brown .it is yellow .the box is yellow .
+the box is not closed .it is open .
+the box is not cold .it is hot .the box is hot .
+the box is not grey .it is pink .the box is pink .
+the box is not new .it is old .so the box is old .
+the box is not old .it is new .so the box is new .
+the box is not pink .it is black .
+the box is not soft .it is hard .so the box is hard .
+the box is not soft .it is hard .the box is hard .
+the box is not white .it is black .the box is black .
+the car is black , not grey .
+the car is black , not red .
+the car is grey , not white .
+the car is not black .it is grey .the car is grey .
+the car is not blue .it is pink .the car is pink .
+the car is not cold .it is hot .the car is hot .
+the car is not dirty .it is clean .
+the car is not empty .it is full .so the car is full .
+the car is not green .it is pink .
+the car is not pink .it is brown .
+the car is not pink .it is yellow .so the car is yellow .
+the car is not red .it is green .so the car is green .
+the car is not red .it is yellow .
+the car is not white .it is black .so the car is black .
+the car is soft , not hard .
+the car is yellow , not green .
+the car is yellow , not pink .
+the chair is brown , not white .
+the chair is hot , not cold .
+the chair is not black .it is pink .the chair is pink .
+the chair is not brown .it is green .
+the chair is not green .it is pink .
+the chair is not grey .it is brown .so the chair is brown .
+the chair is not grey .it is pink .so the chair is pink .
+the chair is not old .it is new .the chair is new .
+the chair is not pink .it is black .so the chair is black .
+the chair is not pink .it is red .the chair is red .
+the chair is not pink .it is white .the chair is white .
+the chair is not red .it is green .so the chair is green .
+the chair is not white .it is blue .so the chair is blue .
+the chair is not white .it is red .the chair is red .
+the chair is not yellow .it is black .the chair is black .
+the chair is old , not new .
+the chair is yellow , not black .
+the coat is clean , not dirty .
+the coat is grey , not green .
+the coat is hard , not soft .
+the coat is not blue .it is black .
+the coat is not brown .it is green .so the coat is green .
+the coat is not dry .it is wet .so the coat is wet .
+the coat is not grey .it is yellow .
+the coat is not red .it is white .the coat is white .
+the coat is not red .it is yellow .
+the coat is not yellow .it is blue .so the coat is blue .
+the coat is not yellow .it is green .
+the coat is red , not pink .
+the cup is black , not red .
+the cup is black , not white .
+the cup is grey , not green .
+the cup is not black .it is brown .the cup is brown .
+the cup is not black .it is grey .the cup is grey .
+the cup is not black .it is pink .so the cup is pink .
+the cup is not black .it is red .so the cup is red .
+the cup is not clean .it is dirty .
+the cup is not full .it is empty .
+the cup is not full .it is empty .so the cup is empty .
+the cup is not grey .it is black .so the cup is black .
+the cup is not grey .it is brown .the cup is brown .
+the cup is not new .it is old .
+the cup is not pink .it is blue .
+the cup is not red .it is green .
+the cup is not red .it is pink .the cup is pink .
+the cup is not white .it is black .so the cup is black .
+the cup is not white .it is blue .so the cup is blue .
+the cup is not white .it is brown .the cup is brown .
+the cup is pink , not blue .
+the cup is pink , not brown .
+the door is black , not green .
+the door is brown , not green .
+the door is clean , not dirty .
+the door is not black .it is green .the door is green .
+the door is not black .it is pink .
+the door is not brown .it is pink .so the door is pink .
+the door is not grey .it is pink .the door is pink .
+the door is not pink .it is blue .so the door is blue .
+the door is not red .it is grey .
+the door is not red .it is yellow .
+the door is not soft .it is hard .so the door is hard .
+the door is not white .it is brown .the door is brown .
+the door is not yellow .it is green .so the door is green .
+the door is not yellow .it is grey .
+the door is red , not blue .
+the door is white , not black .
+the flag is brown , not blue .
+the flag is cold , not hot .
+the flag is grey , not green .
+the flag is not brown .it is grey .
+the flag is not brown .it is pink .the flag is pink .
+the flag is not empty .it is full .the flag is full .
+the flag is not green .it is white .
+the flag is not grey .it is pink .the flag is pink .
+the flag is not wet .it is dry .so the flag is dry .
+the flag is not white .it is blue .
+the flag is not white .it is brown .so the flag is brown .
+the flag is red , not green .
+the gate is grey , not black .
+the gate is not blue .it is yellow .so the gate is yellow .
+the gate is not brown .it is grey .so the gate is grey .
+the gate is not clean .it is dirty .so the gate is dirty .
+the gate is not empty .it is full .
+the gate is not green .it is pink .so the gate is pink .
+the gate is not grey .it is black .the gate is black .
+the gate is not grey .it is brown .the gate is brown .
+the gate is not red .it is green .the gate is green .
+the gate is not red .it is grey .the gate is grey .
+the gate is not white .it is blue .the gate is blue .
+the gate is not white .it is brown .so the gate is brown .
+the gate is not yellow .it is brown .
+the gate is not yellow .it is green .
+the gate is old , not new .
+the gate is pink , not green .
+the gate is white , not grey .
+the hat is blue , not green .
+the hat is not black .it is pink .the hat is pink .
+the hat is not blue .it is green .
+the hat is not brown .it is blue .the hat is blue .
+the hat is not brown .it is white .so the hat is white .
+the hat is not closed .it is open .
+the hat is not dirty .it is clean .so the hat is clean .
+the hat is not full .it is empty .
+the hat is not red .it is black .the hat is black .
+the hat is not red .it is grey .
+the hat is not yellow .it is green .the hat is green .
+the hat is pink , not white .
+the hat is red , not brown .
+the key is big , not small .
+the key is grey , not brown .
+the key is not black .it is blue .so the key is blue .
+the key is not brown .it is pink .
+the key is not closed .it is open .the key is open .
+the key is not green .it is blue .so the key is blue .
+the key is not grey .it is green .so the key is green .
+the key is not grey .it is red .the key is red .
+the key is not grey .it is white .so the key is white .
+the key is not red .it is pink .
+the key is not wet .it is dry .the key is dry .
+the key is not white .it is blue .so the key is blue .
+the key is not wide .it is narrow .the key is narrow .
+the key is not yellow .it is black .
+the key is not yellow .it is green .the key is green .
+the key is red , not green .
+the key is white , not grey .
+the lamp is green , not blue .
+the lamp is not black .it is green .so the lamp is green .
+the lamp is not blue .it is pink .
+the lamp is not blue .it is white .so the lamp is white .
+the lamp is not brown .it is black .the lamp is black .
+the lamp is not brown .it is green .the lamp is green .
+the lamp is not brown .it is yellow .so the lamp is yellow .
+the lamp is not empty .it is full .the lamp is full .
+the lamp is not grey .it is red .the lamp is red .
+the lamp is not pink .it is black .the lamp is black .
+the lamp is not yellow .it is grey .
+the lamp is not yellow .it is pink .the lamp is pink .
+the lamp is pink , not red .
+the lamp is red , not pink .
+the pen is black , not brown .
+the pen is black , not white .
+the pen is brown , not blue .
+the pen is grey , not pink .
+the pen is not clean .it is dirty .
+the pen is not clean .it is dirty .so the pen is dirty .
+the pen is not closed .it is open .
+the pen is not cold .it is hot .the pen is hot .
+the pen is not hot .it is cold .so the pen is cold .
+the pen is not wet .it is dry .
+the pen is not white .it is green .so the pen is green .
+the pen is red , not green .
+the plate is brown , not grey .
+the plate is green , not pink .
+the plate is not black .it is brown .the plate is brown .
+the plate is not black .it is grey .so the plate is grey .
+the plate is not black .it is red .the plate is red .
+the plate is not brown .it is blue .the plate is blue .
+the plate is not brown .it is yellow .the plate is yellow .
+the plate is not dry .it is wet .
+the plate is not empty .it is full .the plate is full .
+the plate is not green .it is grey .so the plate is grey .
+the plate is not grey .it is green .
+the plate is not grey .it is yellow .the plate is yellow .
+the plate is not pink .it is brown .the plate is brown .
+the plate is not red .it is black .
+the plate is not white .it is brown .the plate is brown .
+the plate is not white .it is red .the plate is red .
+the plate is white , not brown .
+the shirt is green , not red .
+the shirt is not big .it is small .so the shirt is small .
+the shirt is not black .it is yellow .the shirt is yellow .
+the shirt is not brown .it is blue .the shirt is blue .
+the shirt is not brown .it is white .
+the shirt is not green .it is pink .so the shirt is pink .
+the shirt is not hot .it is cold .the shirt is cold .
+the shirt is not pink .it is blue .the shirt is blue .
+the shirt is not pink .it is red .so the shirt is red .
+the shirt is not white .it is blue .so the shirt is blue .
+the sock is black , not grey .
+the sock is not black .it is green .so the sock is green .
+the sock is not black .it is white .so the sock is white .
+the sock is not blue .it is grey .the sock is grey .
+the sock is not brown .it is red .so the sock is red .
+the sock is not closed .it is open .the sock is open .
+the sock is not dirty .it is clean .
+the sock is not green .it is blue .
+the sock is not green .it is brown .so the sock is brown .
+the sock is not green .it is red .
+the sock is not grey .it is white .the sock is white .
+the sock is not soft .it is hard .the sock is hard .
+the sock is not white .it is brown .
+the sock is not yellow .it is brown .
+the sock is not yellow .it is grey .
+the sock is red , not green .
+the sock is white , not black .
+the table is black , not grey .
+the table is not black .it is grey .so the table is grey .
+the table is not brown .it is white .
+the table is not dirty .it is clean .the table is clean .
+the table is not green .it is blue .the table is blue .
+the table is not green .it is white .
+the table is not green .it is white .so the table is white .
+the table is not grey .it is white .the table is white .
+the table is not pink .it is grey .the table is grey .
+the table is not pink .it is red .
+the table is not red .it is green .the table is green .
+the table is not red .it is white .the table is white .
+the table is not wet .it is dry .so the table is dry .
+the table is not yellow .it is grey .
+the table is pink , not green .
+the wall is grey , not white .
+the wall is not big .it is small .
+the wall is not blue .it is brown .so the wall is brown .
+the wall is not blue .it is pink .the wall is pink .
+the wall is not brown .it is green .so the wall is green .
+the wall is not narrow .it is wide .the wall is wide .
+the wall is not red .it is brown .so the wall is brown .
+the wall is not red .it is yellow .so the wall is yellow .
+the wall is not yellow .it is grey .so the wall is grey .
+the wall is wet , not dry .
+the window is black , not red .
+the window is not blue .it is white .so the window is white .
+the window is not blue .it is yellow .so the window is yellow .
+the window is not brown .it is pink .
+the window is not brown .it is white .
+the window is not full .it is empty .the window is empty .
+the window is not green .it is pink .the window is pink .
+the window is not green .it is red .
+the window is not pink .it is black .so the window is black .
+the window is not pink .it is yellow .
+the window is not white .it is pink .the window is pink .
+the window is not yellow .it is blue .
+the window is yellow , not green .
+theo did not buy cake .he bought butter .theo bought butter .
+theo did not buy fish .he bought cheese .
+theo did not buy jam .he bought coffee .
+theo did not buy meat .he bought cake .theo bought cake .
+theo did not buy salad .he bought pasta .
+theo did not eat cheese .he ate jam .
+theo did not eat rice .he ate fish .
+theo did not order bread .he ordered coffee .
+theo did not order milk .he ordered water .theo ordered water .
+theo did not order the soup .he ordered the honey .theo ordered the honey .
+theo did not take bread .he took meat .theo took meat .
+theo did not take the bread .he took the milk .theo took the milk .
+theo did not want fish .he wanted bread .
+theo did not want jam .he wanted cheese .theo wanted cheese .
+theo did not want pasta .he wanted water .
+theo did not want soup .he wanted milk .
+theo did not want the soup .he wanted the honey .theo wanted the honey .

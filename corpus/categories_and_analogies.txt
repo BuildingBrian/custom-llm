@@ -1,0 +1,648 @@
+a banana is a fruit .
+a banana is a fruit .a daisy is a flower .
+a beagle is a dog .
+a beagle is a dog .an orange is a fruit .
+a bean is a vegetable .
+a bean is a vegetable .a hen is a bird .
+a bean is a vegetable .a mango is a fruit .
+a bean is a vegetable .a tiger is a cat .
+a bean is a vegetable .a trout is a fish .
+a bean is a vegetable .a wrench is a tool .
+a bicycle is a vehicle .
+a bicycle is a vehicle .a saw is a tool .
+a bus is a vehicle .
+a bus is a vehicle .a wool is a fabric .
+a bus is a vehicle .an iron is a metal .
+a cabbage is a vegetable .
+a cabbage is a vegetable .a husky is a dog .
+a calf grows into a cow .
+a calf grows into a cow .a chick grows into a hen .
+a calf grows into a cow .a lamb grows into a sheep .
+a calf grows into a cow .a piglet grows into a pig .
+a calf grows into a cow .a tadpole grows into a frog .
+a car is a vehicle .
+a car is a vehicle .a bean is a vegetable .
+a car is a vehicle .a tuna is a fish .
+a chick grows into a hen .
+a chick grows into a hen .a calf grows into a cow .
+a chick grows into a hen .a cub grows into a bear .
+a chick grows into a hen .a duckling grows into a duck .
+a chick grows into a hen .a foal grows into a horse .
+a chick grows into a hen .a lamb grows into a sheep .
+a chick grows into a hen .a piglet grows into a pig .
+a chick grows into a hen .a tadpole grows into a frog .
+a cod is a fish .
+a cod is a fish .a rose is a flower .
+a collie is a dog .
+a collie is a dog .a peach is a fruit .
+a collie is a dog .a shark is a fish .
+a copper is a metal .
+a copper is a metal .a trout is a fish .
+a copper is a metal .a wrench is a tool .
+a cotton is a fabric .
+a cotton is a fabric .a cabbage is a vegetable .
+a cotton is a fabric .a husky is a dog .
+a cotton is a fabric .a mango is a fruit .
+a cotton is a fabric .a potato is a vegetable .
+a cotton is a fabric .a truck is a vehicle .
+a cotton is a fabric .a tulip is a flower .
+a crow is a bird .
+a crow is a bird .a bean is a vegetable .
+a crow is a bird .a siamese is a cat .
+a cub grows into a bear .
+a cub grows into a bear .a calf grows into a cow .
+a cub grows into a bear .a chick grows into a hen .
+a cub grows into a bear .a foal grows into a horse .
+a cub grows into a bear .a tadpole grows into a frog .
+a daisy is a flower .
+a daisy is a flower .a cabbage is a vegetable .
+a daisy is a flower .a copper is a metal .
+a daisy is a flower .a drill is a tool .
+a daisy is a flower .a wool is a fabric .
+a drill is a tool .
+a drill is a tool .a tabby is a cat .
+a drill is a tool .a tulip is a flower .
+a drill is a tool .an orange is a fruit .
+a duck is a bird .
+a duck is a bird .a lily is a flower .
+a duckling grows into a duck .
+a duckling grows into a duck .a calf grows into a cow .
+a duckling grows into a duck .a cub grows into a bear .
+a duckling grows into a duck .a foal grows into a horse .
+a duckling grows into a duck .a kid grows into a goat .
+a duckling grows into a duck .a piglet grows into a pig .
+a foal grows into a horse .
+a foal grows into a horse .a duckling grows into a duck .
+a foal grows into a horse .a lamb grows into a sheep .
+a foal grows into a horse .a piglet grows into a pig .
+a foal grows into a horse .a tadpole grows into a frog .
+a gold is a metal .
+a gold is a metal .a hen is a bird .
+a gold is a metal .a maple is a tree .
+a gold is a metal .a tiger is a cat .
+a goldfish is a fish .
+a goldfish is a fish .a sparrow is a bird .
+a goldfish is a fish .a taxi is a vehicle .
+a grape is a fruit .
+a hammer is a tool .
+a hammer is a tool .a tabby is a cat .
+a hen is a bird .
+a hen is a bird .a bicycle is a vehicle .
+a hen is a bird .a taxi is a vehicle .
+a husky is a dog .
+a husky is a dog .a drill is a tool .
+a husky is a dog .a saw is a tool .
+a husky is a dog .a tulip is a flower .
+a kid grows into a goat .
+a kid grows into a goat .a cub grows into a bear .
+a kid grows into a goat .a duckling grows into a duck .
+a kid grows into a goat .a foal grows into a horse .
+a kid grows into a goat .a piglet grows into a pig .
+a kid grows into a goat .a tadpole grows into a frog .
+a lamb grows into a sheep .
+a lamb grows into a sheep .a chick grows into a hen .
+a lamb grows into a sheep .a cub grows into a bear .
+a lamb grows into a sheep .a duckling grows into a duck .
+a lamb grows into a sheep .a foal grows into a horse .
+a lily is a flower .
+a lily is a flower .a siamese is a cat .
+a lily is a flower .a tabby is a cat .
+a linen is a fabric .
+a linen is a fabric .a tiger is a cat .
+a lion is a cat .
+a mango is a fruit .
+a mango is a fruit .a truck is a vehicle .
+a maple is a tree .
+a maple is a tree .a linen is a fabric .
+a maple is a tree .a peach is a fruit .
+a maple is a tree .a tulip is a flower .
+a maple is a tree .an eagle is a bird .
+a palm is a tree .
+a palm is a tree .a truck is a vehicle .
+a parrot is a bird .
+a parrot is a bird .a rose is a flower .
+a parrot is a bird .a wool is a fabric .
+a peach is a fruit .
+a peach is a fruit .a bean is a vegetable .
+a peach is a fruit .a cabbage is a vegetable .
+a peach is a fruit .a trout is a fish .
+a pear is a fruit .
+a pear is a fruit .a maple is a tree .
+a pear is a fruit .a saw is a tool .
+a piglet grows into a pig .
+a piglet grows into a pig .a chick grows into a hen .
+a piglet grows into a pig .a duckling grows into a duck .
+a piglet grows into a pig .a foal grows into a horse .
+a piglet grows into a pig .a lamb grows into a sheep .
+a piglet grows into a pig .a tadpole grows into a frog .
+a pine is a tree .
+a pine is a tree .a crow is a bird .
+a pine is a tree .an onion is a vegetable .
+a plum is a fruit .
+a plum is a fruit .a duck is a bird .
+a plum is a fruit .a silk is a fabric .
+a poodle is a dog .
+a poodle is a dog .a banana is a fruit .
+a poodle is a dog .a palm is a tree .
+a poodle is a dog .an iron is a metal .
+a potato is a vegetable .
+a potato is a vegetable .a bicycle is a vehicle .
+a rose is a flower .
+a rose is a flower .a cotton is a fabric .
+a rose is a flower .a goldfish is a fish .
+a rose is a flower .a peach is a fruit .
+a rose is a flower .a siamese is a cat .
+a rose is a flower .a wrench is a tool .
+a rose is a flower .an iron is a metal .
+a rose is a flower .an onion is a vegetable .
+a saw is a tool .
+a saw is a tool .a beagle is a dog .
+a saw is a tool .a husky is a dog .
+a saw is a tool .a truck is a vehicle .
+a shark is a fish .
+a shark is a fish .a crow is a bird .
+a shark is a fish .a palm is a tree .
+a shark is a fish .a parrot is a bird .
+a shark is a fish .a tulip is a flower .
+a siamese is a cat .
+a siamese is a cat .a gold is a metal .
+a siamese is a cat .a rose is a flower .
+a siamese is a cat .a taxi is a vehicle .
+a siamese is a cat .a tulip is a flower .
+a silk is a fabric .
+a silk is a fabric .a beagle is a dog .
+a silk is a fabric .a tabby is a cat .
+a silver is a metal .
+a silver is a metal .a lily is a flower .
+a silver is a metal .a peach is a fruit .
+a silver is a metal .a pine is a tree .
+a silver is a metal .a siamese is a cat .
+a silver is a metal .a trout is a fish .
+a sparrow is a bird .
+a tabby is a cat .
+a tabby is a cat .a cabbage is a vegetable .
+a tabby is a cat .an eagle is a bird .
+a tadpole grows into a frog .
+a tadpole grows into a frog .a calf grows into a cow .
+a tadpole grows into a frog .a chick grows into a hen .
+a tadpole grows into a frog .a cub grows into a bear .
+a taxi is a vehicle .
+a taxi is a vehicle .a linen is a fabric .
+a taxi is a vehicle .a tulip is a flower .
+a tiger is a cat .
+a tiger is a cat .a drill is a tool .
+a tiger is a cat .a poodle is a dog .
+a train is a vehicle .
+a train is a vehicle .a copper is a metal .
+a train is a vehicle .a daisy is a flower .
+a train is a vehicle .an owl is a bird .
+a trout is a fish .
+a truck is a vehicle .
+a truck is a vehicle .a peach is a fruit .
+a tulip is a flower .
+a tulip is a flower .a wool is a fabric .
+a tulip is a flower .an owl is a bird .
+a tuna is a fish .
+a tuna is a fish .a car is a vehicle .
+a tuna is a fish .a hammer is a tool .
+a tuna is a fish .a taxi is a vehicle .
+a tuna is a fish .a tulip is a flower .
+a wool is a fabric .
+a wool is a fabric .a car is a vehicle .
+a wool is a fabric .a cod is a fish .
+a wool is a fabric .a mango is a fruit .
+a wrench is a tool .
+a wrench is a tool .a grape is a fruit .
+a wrench is a tool .a parrot is a bird .
+a wrench is a tool .a pine is a tree .
+a wrench is a tool .a trout is a fish .
+a young bear is called a cub .
+a young cat is called a kitten .
+a young cow is called a calf .
+a young dog is called a puppy .
+a young duck is called a duckling .
+a young frog is called a tadpole .
+a young goat is called a kid .
+a young hen is called a chick .
+a young horse is called a foal .
+a young pig is called a piglet .
+a young sheep is called a lamb .
+an eagle is a bird .
+an iron is a metal .
+an oak is a tree .
+an oak is a tree .a poodle is a dog .
+an oak is a tree .a tabby is a cat .
+an onion is a vegetable .
+an onion is a vegetable .a copper is a metal .
+an onion is a vegetable .a duck is a bird .
+an onion is a vegetable .a pine is a tree .
+an onion is a vegetable .a truck is a vehicle .
+an orange is a fruit .
+an orange is a fruit .a drill is a tool .
+an orange is a fruit .a train is a vehicle .
+an orange is a fruit .a wrench is a tool .
+an owl is a bird .
+every banana is a fruit .
+every beagle is a dog .
+every bean is a vegetable .
+every bicycle is a vehicle .
+every bus is a vehicle .
+every cabbage is a vegetable .
+every calf grows into a cow .
+every car is a vehicle .
+every chick grows into a hen .
+every cod is a fish .
+every collie is a dog .
+every copper is a metal .
+every cotton is a fabric .
+every crow is a bird .
+every cub grows into a bear .
+every daisy is a flower .
+every drill is a tool .
+every duck is a bird .
+every duckling grows into a duck .
+every eagle is a bird .
+every foal grows into a horse .
+every gold is a metal .
+every goldfish is a fish .
+every grape is a fruit .
+every hammer is a tool .
+every hen is a bird .
+every husky is a dog .
+every iron is a metal .
+every kid grows into a goat .
+every lamb grows into a sheep .
+every lily is a flower .
+every linen is a fabric .
+every lion is a cat .
+every mango is a fruit .
+every maple is a tree .
+every oak is a tree .
+every onion is a vegetable .
+every orange is a fruit .
+every owl is a bird .
+every palm is a tree .
+every parrot is a bird .
+every peach is a fruit .
+every pear is a fruit .
+every piglet grows into a pig .
+every pine is a tree .
+every plum is a fruit .
+every poodle is a dog .
+every potato is a vegetable .
+every rose is a flower .
+every saw is a tool .
+every shark is a fish .
+every siamese is a cat .
+every silk is a fabric .
+every silver is a metal .
+every sparrow is a bird .
+every tabby is a cat .
+every tadpole grows into a frog .
+every taxi is a vehicle .
+every tiger is a cat .
+every train is a vehicle .
+every trout is a fish .
+every truck is a vehicle .
+every tulip is a flower .
+every tuna is a fish .
+every wool is a fabric .
+every wrench is a tool .
+first it is a calf , later it is a cow .
+first it is a chick , later it is a hen .
+first it is a cub , later it is a bear .
+first it is a duckling , later it is a duck .
+first it is a foal , later it is a horse .
+first it is a kid , later it is a goat .
+first it is a kitten , later it is a cat .
+first it is a lamb , later it is a sheep .
+first it is a piglet , later it is a pig .
+first it is a puppy , later it is a dog .
+first it is a tadpole , later it is a frog .
+the apple and the banana are two kinds of fruit .
+the apple and the mango are two kinds of fruit .
+the apple belongs with the other fruit kinds .
+the apple is a kind of fruit .
+the banana and the orange are two kinds of fruit .
+the banana and the pear are two kinds of fruit .
+the banana belongs with the other fruit kinds .
+the banana is a kind of fruit .
+the beagle and the collie are two kinds of dog .
+the beagle and the poodle are two kinds of dog .
+the beagle belongs with the other dog kinds .
+the beagle is a kind of dog .
+the bean and the onion are two kinds of vegetable .
+the bean and the potato are two kinds of vegetable .
+the bean belongs with the other vegetable kinds .
+the bean is a kind of vegetable .
+the bicycle and the bus are two kinds of vehicle .
+the bicycle and the train are two kinds of vehicle .
+the bicycle belongs with the other vehicle kinds .
+the bicycle is a kind of vehicle .
+the bus and the taxi are two kinds of vehicle .
+the bus and the train are two kinds of vehicle .
+the bus belongs with the other vehicle kinds .
+the bus is a kind of vehicle .
+the cabbage and the bean are two kinds of vegetable .
+the cabbage and the potato are two kinds of vegetable .
+the cabbage belongs with the other vegetable kinds .
+the cabbage is a kind of vegetable .
+the calf played next to the older cow .
+the calf will become a cow one day .
+the car and the train are two kinds of vehicle .
+the car and the truck are two kinds of vehicle .
+the car belongs with the other vehicle kinds .
+the car is a kind of vehicle .
+the carrot and the bean are two kinds of vegetable .
+the carrot and the onion are two kinds of vegetable .
+the carrot belongs with the other vegetable kinds .
+the carrot is a kind of vegetable .
+the chick played next to the older hen .
+the chick will become a hen one day .
+the cod and the goldfish are two kinds of fish .
+the cod and the shark are two kinds of fish .
+the cod belongs with the other fish kinds .
+the cod is a kind of fish .
+the collie and the husky are two kinds of dog .
+the collie and the poodle are two kinds of dog .
+the collie belongs with the other dog kinds .
+the collie is a kind of dog .
+the copper and the gold are two kinds of metal .
+the copper and the iron are two kinds of metal .
+the copper belongs with the other metal kinds .
+the copper is a kind of metal .
+the cotton and the linen are two kinds of fabric .
+the cotton and the wool are two kinds of fabric .
+the cotton belongs with the other fabric kinds .
+the cotton is a kind of fabric .
+the crow and the duck are two kinds of bird .
+the crow and the owl are two kinds of bird .
+the crow belongs with the other bird kinds .
+the crow is a kind of bird .
+the cub played next to the older bear .
+the cub will become a bear one day .
+the daisy and the lily are two kinds of flower .
+the daisy and the tulip are two kinds of flower .
+the daisy belongs with the other flower kinds .
+the daisy is a kind of flower .
+the drill and the saw are two kinds of tool .
+the drill and the wrench are two kinds of tool .
+the drill belongs with the other tool kinds .
+the drill is a kind of tool .
+the duck and the crow are two kinds of bird .
+the duck and the robin are two kinds of bird .
+the duck belongs with the other bird kinds .
+the duck is a kind of bird .
+the duckling played next to the older duck .
+the duckling will become a duck one day .
+the eagle and the crow are two kinds of bird .
+the eagle and the sparrow are two kinds of bird .
+the eagle belongs with the other bird kinds .
+the eagle is a kind of bird .
+the foal played next to the older horse .
+the foal will become a horse one day .
+the gold and the copper are two kinds of metal .
+the gold and the silver are two kinds of metal .
+the gold belongs with the other metal kinds .
+the gold is a kind of metal .
+the goldfish and the cod are two kinds of fish .
+the goldfish and the salmon are two kinds of fish .
+the goldfish belongs with the other fish kinds .
+the goldfish is a kind of fish .
+the grape and the orange are two kinds of fruit .
+the grape and the plum are two kinds of fruit .
+the grape belongs with the other fruit kinds .
+the grape is a kind of fruit .
+the hammer and the saw are two kinds of tool .
+the hammer and the wrench are two kinds of tool .
+the hammer belongs with the other tool kinds .
+the hammer is a kind of tool .
+the hen and the eagle are two kinds of bird .
+the hen and the owl are two kinds of bird .
+the hen belongs with the other bird kinds .
+the hen is a kind of bird .
+the husky and the beagle are two kinds of dog .
+the husky and the collie are two kinds of dog .
+the husky belongs with the other dog kinds .
+the husky is a kind of dog .
+the iron and the copper are two kinds of metal .
+the iron and the gold are two kinds of metal .
+the iron belongs with the other metal kinds .
+the iron is a kind of metal .
+the kid played next to the older goat .
+the kid will become a goat one day .
+the kitten played next to the older cat .
+the kitten will become a cat one day .
+the lamb played next to the older sheep .
+the lamb will become a sheep one day .
+the lily and the daisy are two kinds of flower .
+the lily and the rose are two kinds of flower .
+the lily belongs with the other flower kinds .
+the lily is a kind of flower .
+the linen and the cotton are two kinds of fabric .
+the linen and the wool are two kinds of fabric .
+the linen belongs with the other fabric kinds .
+the linen is a kind of fabric .
+the lion and the siamese are two kinds of cat .
+the lion and the tabby are two kinds of cat .
+the lion belongs with the other cat kinds .
+the lion is a kind of cat .
+the mango and the grape are two kinds of fruit .
+the mango and the plum are two kinds of fruit .
+the mango belongs with the other fruit kinds .
+the mango is a kind of fruit .
+the maple and the oak are two kinds of tree .
+the maple and the pine are two kinds of tree .
+the maple belongs with the other tree kinds .
+the maple is a kind of tree .
+the oak and the maple are two kinds of tree .
+the oak and the palm are two kinds of tree .
+the oak belongs with the other tree kinds .
+the oak is a kind of tree .
+the onion and the cabbage are two kinds of vegetable .
+the onion and the carrot are two kinds of vegetable .
+the onion belongs with the other vegetable kinds .
+the onion is a kind of vegetable .
+the orange and the banana are two kinds of fruit .
+the orange and the mango are two kinds of fruit .
+the orange belongs with the other fruit kinds .
+the orange is a kind of fruit .
+the owl and the robin are two kinds of bird .
+the owl and the sparrow are two kinds of bird .
+the owl belongs with the other bird kinds .
+the owl is a kind of bird .
+the palm and the maple are two kinds of tree .
+the palm and the pine are two kinds of tree .
+the palm belongs with the other tree kinds .
+the palm is a kind of tree .
+the parrot and the crow are two kinds of bird .
+the parrot and the eagle are two kinds of bird .
+the parrot belongs with the other bird kinds .
+the parrot is a kind of bird .
+the peach and the apple are two kinds of fruit .
+the peach and the mango are two kinds of fruit .
+the peach belongs with the other fruit kinds .
+the peach is a kind of fruit .
+the pear and the apple are two kinds of fruit .
+the pear and the banana are two kinds of fruit .
+the pear belongs with the other fruit kinds .
+the pear is a kind of fruit .
+the piglet played next to the older pig .
+the piglet will become a pig one day .
+the pine and the maple are two kinds of tree .
+the pine and the oak are two kinds of tree .
+the pine belongs with the other tree kinds .
+the pine is a kind of tree .
+the plum and the apple are two kinds of fruit .
+the plum and the mango are two kinds of fruit .
+the plum belongs with the other fruit kinds .
+the plum is a kind of fruit .
+the poodle and the beagle are two kinds of dog .
+the poodle and the husky are two kinds of dog .
+the poodle belongs with the other dog kinds .
+the poodle is a kind of dog .
+the potato and the bean are two kinds of vegetable .
+the potato and the onion are two kinds of vegetable .
+the potato belongs with the other vegetable kinds .
+the potato is a kind of vegetable .
+the puppy played next to the older dog .
+the puppy will become a dog one day .
+the robin and the hen are two kinds of bird .
+the robin and the parrot are two kinds of bird .
+the robin belongs with the other bird kinds .
+the robin is a kind of bird .
+the rose and the daisy are two kinds of flower .
+the rose and the lily are two kinds of flower .
+the rose belongs with the other flower kinds .
+the rose is a kind of flower .
+the salmon and the shark are two kinds of fish .
+the salmon and the tuna are two kinds of fish .
+the salmon belongs with the other fish kinds .
+the salmon is a kind of fish .
+the saw and the drill are two kinds of tool .
+the saw and the hammer are two kinds of tool .
+the saw belongs with the other tool kinds .
+the saw is a kind of tool .
+the shark and the salmon are two kinds of fish .
+the shark and the trout are two kinds of fish .
+the shark belongs with the other fish kinds .
+the shark is a kind of fish .
+the siamese and the lion are two kinds of cat .
+the siamese and the tabby are two kinds of cat .
+the siamese belongs with the other cat kinds .
+the siamese is a kind of cat .
+the silk and the linen are two kinds of fabric .
+the silk and the wool are two kinds of fabric .
+the silk belongs with the other fabric kinds .
+the silk is a kind of fabric .
+the silver and the copper are two kinds of metal .
+the silver and the gold are two kinds of metal .
+the silver belongs with the other metal kinds .
+the silver is a kind of metal .
+the sparrow and the duck are two kinds of bird .
+the sparrow and the hen are two kinds of bird .
+the sparrow belongs with the other bird kinds .
+the sparrow is a kind of bird .
+the tabby and the lion are two kinds of cat .
+the tabby and the tiger are two kinds of cat .
+the tabby belongs with the other cat kinds .
+the tabby is a kind of cat .
+the tadpole played next to the older frog .
+the tadpole will become a frog one day .
+the taxi and the bicycle are two kinds of vehicle .
+the taxi and the train are two kinds of vehicle .
+the taxi belongs with the other vehicle kinds .
+the taxi is a kind of vehicle .
+the tiger and the lion are two kinds of cat .
+the tiger and the siamese are two kinds of cat .
+the tiger belongs with the other cat kinds .
+the tiger is a kind of cat .
+the train and the bicycle are two kinds of vehicle .
+the train and the truck are two kinds of vehicle .
+the train belongs with the other vehicle kinds .
+the train is a kind of vehicle .
+the trout and the goldfish are two kinds of fish .
+the trout and the salmon are two kinds of fish .
+the trout belongs with the other fish kinds .
+the trout is a kind of fish .
+the truck and the bus are two kinds of vehicle .
+the truck and the car are two kinds of vehicle .
+the truck belongs with the other vehicle kinds .
+the truck is a kind of vehicle .
+the tulip and the daisy are two kinds of flower .
+the tulip and the lily are two kinds of flower .
+the tulip belongs with the other flower kinds .
+the tulip is a kind of flower .
+the tuna and the goldfish are two kinds of fish .
+the tuna and the shark are two kinds of fish .
+the tuna belongs with the other fish kinds .
+the tuna is a kind of fish .
+the wool and the cotton are two kinds of fabric .
+the wool and the silk are two kinds of fabric .
+the wool belongs with the other fabric kinds .
+the wool is a kind of fabric .
+the wrench and the drill are two kinds of tool .
+the wrench and the hammer are two kinds of tool .
+the wrench belongs with the other tool kinds .
+the wrench is a kind of tool .
+we saw a banana , which is a type of fruit .
+we saw a beagle , which is a type of dog .
+we saw a bean , which is a type of vegetable .
+we saw a bicycle , which is a type of vehicle .
+we saw a bus , which is a type of vehicle .
+we saw a cabbage , which is a type of vegetable .
+we saw a car , which is a type of vehicle .
+we saw a carrot , which is a type of vegetable .
+we saw a cod , which is a type of fish .
+we saw a collie , which is a type of dog .
+we saw a copper , which is a type of metal .
+we saw a cotton , which is a type of fabric .
+we saw a crow , which is a type of bird .
+we saw a daisy , which is a type of flower .
+we saw a drill , which is a type of tool .
+we saw a duck , which is a type of bird .
+we saw a gold , which is a type of metal .
+we saw a goldfish , which is a type of fish .
+we saw a grape , which is a type of fruit .
+we saw a hammer , which is a type of tool .
+we saw a hen , which is a type of bird .
+we saw a husky , which is a type of dog .
+we saw a lily , which is a type of flower .
+we saw a linen , which is a type of fabric .
+we saw a lion , which is a type of cat .
+we saw a mango , which is a type of fruit .
+we saw a maple , which is a type of tree .
+we saw a palm , which is a type of tree .
+we saw a parrot , which is a type of bird .
+we saw a peach , which is a type of fruit .
+we saw a pear , which is a type of fruit .
+we saw a pine , which is a type of tree .
+we saw a plum , which is a type of fruit .
+we saw a poodle , which is a type of dog .
+we saw a potato , which is a type of vegetable .
+we saw a robin , which is a type of bird .
+we saw a rose , which is a type of flower .
+we saw a salmon , which is a type of fish .
+we saw a saw , which is a type of tool .
+we saw a shark , which is a type of fish .
+we saw a siamese , which is a type of cat .
+we saw a silk , which is a type of fabric .
+we saw a silver , which is a type of metal .
+we saw a sparrow , which is a type of bird .
+we saw a tabby , which is a type of cat .
+we saw a taxi , which is a type of vehicle .
+we saw a tiger , which is a type of cat .
+we saw a train , which is a type of vehicle .
+we saw a trout , which is a type of fish .
+we saw a truck , which is a type of vehicle .
+we saw a tulip , which is a type of flower .
+we saw a tuna , which is a type of fish .
+we saw a wool , which is a type of fabric .
+we saw a wrench , which is a type of tool .
+we saw an apple , which is a type of fruit .
+we saw an eagle , which is a type of bird .
+we saw an iron , which is a type of metal .
+we saw an oak , which is a type of tree .
+we saw an onion , which is a type of vegetable .
+we saw an orange , which is a type of fruit .
+we saw an owl , which is a type of bird .

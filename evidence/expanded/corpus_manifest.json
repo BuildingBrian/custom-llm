@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "categories_and_analogies.txt",
+      "bytes": 25717,
+      "sha256": "eb700f50812fed10e5d50d47ed98a217ccf1cacd17d0871087706d1a1c6a11b7",
+      "warnings": [],
+      "characters": 25717,
+      "passages": 648,
+      "unique_passages": 648,
+      "preview": "a banana is a fruit .\na banana is a fruit .a daisy is a flower .\na beagle is a dog .\na beagle is a dog .an orange is a fruit .\na bean is a vegetable .\na bean is a vegetable .a hen is a bird .\na bean is a vegetable .a mango is a fruit .\na bean is a vegetable .a tiger is a cat .\na bean is a vegetable "
+    },
+    {
+      "file": "negation.txt",
+      "bytes": 31461,
+      "sha256": "63033c72aa120a03e0fad927636f0470f66172d1151954386c3a6f159b6b6978",
+      "warnings": [],
+      "characters": 31461,
+      "passages": 620,
+      "unique_passages": 620,
+      "preview": "ava did not choose cheese .she chose juice .ava chose juice .\nava did not choose pasta .she chose juice .ava chose juice .\nava did not eat the butter .she ate the rice .ava ate the rice .\nava did not order butter .she ordered meat .ava ordered meat .\nava did not order coffee .she ordered meat .\nava "
+    },
+    {
+      "file": "opposites.txt",
+      "bytes": 25023,
+      "sha256": "a8febc022cd3e91d786b5dd5610ab6eea05b67cb98251993f66c9594dd28f567",
+      "warnings": [],
+      "characters": 25023,
+      "passages": 699,
+      "unique_passages": 699,
+      "preview": "a big hill is the opposite of a small hill .\na big store is the opposite of a small store .\na big voice is the opposite of a small voice .\na bright coat is the opposite of a dark coat .\na bright floor is the opposite of a dark floor .\na bright wall is the opposite of a dark wall .\na cheap box is the"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 1967,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 6559,
+  "new_unique_passages": 1967,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}
