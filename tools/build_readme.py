@@ -43,6 +43,10 @@ chat_nb = J(X/"chat_transcript.json"); chat_t = J(X/"chat_transcript_terminal.js
 temps_s, temps_x = J(S/"temperature_comparison.json"), J(X/"temperature_comparison.json")
 sep_x = J(X/"eval_separation.json")
 fu_s = insp_s["first_update"]
+SHOT = ("**Screenshot** of the session in macOS Terminal (prompts typed into the unchanged `chat.py` by "
+        "[`tools/chat_demo.py`](tools/chat_demo.py); replies identical to the transcript because each turn's seed is fixed):\n\n"
+        "![chat.py running in Terminal](evidence/chat_screenshot.png)") if (E/"chat_screenshot.png").exists() else \
+       "**Screenshot:** `evidence/chat_screenshot.png` (window capture of the Terminal session shown in the transcript above; to be added)."
 
 L = []
 w = L.append
@@ -82,6 +86,7 @@ hard category, negation, stayed at chance (1/3) — the concrete failure discuss
 | [`tools/run_headless.py`](tools/run_headless.py) | Runs the notebook top-to-bottom from the terminal (nbclient) and saves outputs into the .ipynb. |
 | [`evals/language_evals.json`](evals/language_evals.json) | The unchanged 48-case suite (sha256 `{sep_x['suite_sha256'][:16]}…`). |
 | [`run_evals.py`](run_evals.py) · [`chat.py`](chat.py) | Instructor's eval runner and terminal chat interface (unchanged). |
+| [`tools/chat_demo.py`](tools/chat_demo.py) | Types the six transcript prompts into the real `chat.py` through a pseudo-terminal, so the screenshot session is reproducible. |
 | [`evidence/starter/`](evidence/starter/) · [`evidence/expanded/`](evidence/expanded/) | Complete result folders of both runs: config, corpus, manifests, split, tokenization, inspection, history, plots, samples, all four eval result sets, model weights, chat transcripts. ZIPs: [starter.zip](evidence/starter.zip), [expanded.zip](evidence/expanded.zip). |
 | [`evidence/rerun_check/`](evidence/rerun_check/) | Evals re-run from the saved `model.pt` with `run_evals.py`, matching the notebook's numbers exactly. |
 | [`nanogpt_model.py`](nanogpt_model.py) | Pinned nanoGPT `model.py` (commit `3adf61e`, MIT, [`NANOGPT_LICENSE`](NANOGPT_LICENSE)). |
@@ -429,7 +434,7 @@ w(f"""
 The notebook's own chat cell (section 10) produced one more turn, saved in [chat_transcript.json](evidence/expanded/chat_transcript.json):
 "{chat_nb['turns'][0]['prompt']}" → "{chat_nb['turns'][0]['response']}".
 
-**Screenshot:** ![chat.py running in Terminal](evidence/chat_screenshot.png)
+{SHOT}
 
 **Observed limitations:** turn 5 is the clearest one — every content word in "my laptop crashed yesterday" is outside the
 vocabulary, so the model received `<UNK> <UNK> <UNK> yesterday` and produced an empty reply. Turn 6 shows what happens with
