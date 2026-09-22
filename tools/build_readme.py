@@ -43,8 +43,10 @@ chat_nb = J(X/"chat_transcript.json"); chat_t = J(X/"chat_transcript_terminal.js
 temps_s, temps_x = J(S/"temperature_comparison.json"), J(X/"temperature_comparison.json")
 sep_x = J(X/"eval_separation.json")
 fu_s = insp_s["first_update"]
-SHOT = ("**Screenshot** of the session in macOS Terminal (prompts typed into the unchanged `chat.py` by "
-        "[`tools/chat_demo.py`](tools/chat_demo.py); replies identical to the transcript because each turn's seed is fixed):\n\n"
+SHOT = ("**Screenshot** of the session in macOS Terminal, taken by me on 2026-09-22 (the six prompts were typed into the "
+        "unchanged `chat.py` by [`tools/chat_demo.py`](tools/chat_demo.py); replies are identical to the transcript because each "
+        "turn's sampling seed is fixed). The bracketed line after *Saved transcript* comes from the small launcher script that "
+        "opened the window and tried, without permission, to capture it — it is not output of `chat.py`.\n\n"
         "![chat.py running in Terminal](evidence/chat_screenshot.png)") if (E/"chat_screenshot.png").exists() else \
        "**Screenshot:** `evidence/chat_screenshot.png` (window capture of the Terminal session shown in the transcript above; to be added)."
 

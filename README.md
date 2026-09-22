@@ -476,7 +476,9 @@ Type a prompt, press Enter, type `/quit` to exit; the transcript is saved to the
 The notebook's own chat cell (section 10) produced one more turn, saved in [chat_transcript.json](evidence/expanded/chat_transcript.json):
 "the customer" → "recommended the product after checking the price .".
 
-**Screenshot:** `evidence/chat_screenshot.png` (window capture of the Terminal session shown in the transcript above; to be added).
+**Screenshot** of the session in macOS Terminal, taken by me on 2026-09-22 (the six prompts were typed into the unchanged `chat.py` by [`tools/chat_demo.py`](tools/chat_demo.py); replies are identical to the transcript because each turn's sampling seed is fixed). The bracketed line after *Saved transcript* comes from the small launcher script that opened the window and tried, without permission, to capture it — it is not output of `chat.py`.
+
+![chat.py running in Terminal](evidence/chat_screenshot.png)
 
 **Observed limitations:** turn 5 is the clearest one — every content word in "my laptop crashed yesterday" is outside the
 vocabulary, so the model received `<UNK> <UNK> <UNK> yesterday` and produced an empty reply. Turn 6 shows what happens with
