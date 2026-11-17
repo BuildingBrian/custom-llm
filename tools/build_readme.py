@@ -50,8 +50,24 @@ SHOT = ("**Screenshot** of the session in macOS Terminal, taken by me on 2026-09
         "![chat.py running in Terminal](evidence/chat_screenshot.png)") if (E/"chat_screenshot.png").exists() else \
        "**Screenshot:** `evidence/chat_screenshot.png` (window capture of the Terminal session shown in the transcript above; to be added)."
 
+# Arcade theme blocks (assets live in .github/arcade/; they wrap the README and carry no content)
+ARCADE_TOP = """<div align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/banner.svg" width="100%" alt="custom-llm: nanoGPT trained twice on a laptop CPU. A BuildingBrian project."></a>
+</div>
+"""
+ARCADE_BOTTOM = """<p align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/btn-stages.svg" alt="Back to stage select: github.com/BuildingBrian"></a>
+  <a href="https://buildingbrian.github.io/BuildingBrian/"><img src=".github/arcade/btn-play.svg" alt="Play Vapor Strike, the arcade game behind the profile"></a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/footer.svg" width="100%" alt="Thank you for playing. A BuildingBrian project."></a>
+</div>
+"""
+
 L = []
 w = L.append
+w(ARCADE_TOP)
 w(f"""# Building a Custom LLM with nanoGPT — MBA 290T Class 4 (Assignment 3)
 
 **Author:** Brian Arevalo Ramos · **Course:** MBA 290T Fundamentals of Agentic AI, UC Berkeley Haas · **Due:** 2026-09-22
@@ -527,5 +543,6 @@ interface by the course instructor ([pepealonso95/custom-llm](https://github.com
 as my AI assistant: to generate the synthetic teaching sentences, write the two helper scripts and this README's
 tables from the saved outputs, and explain the notebook to me step by step. All runs, numbers and evidence are from my own machine.
 """)
+w(ARCADE_BOTTOM)
 (ROOT / "README.md").write_text("\n".join(L), encoding="utf-8")
 print("README.md written:", len("\n".join(L)), "chars")

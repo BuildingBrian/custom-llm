@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/banner.svg" width="100%" alt="custom-llm: nanoGPT trained twice on a laptop CPU. A BuildingBrian project."></a>
+</div>
+
 # Building a Custom LLM with nanoGPT — MBA 290T Class 4 (Assignment 3)
 
 **Author:** Brian Arevalo Ramos · **Course:** MBA 290T Fundamentals of Agentic AI, UC Berkeley Haas · **Due:** 2026-09-22
@@ -568,3 +572,12 @@ the better first step.
 interface by the course instructor ([pepealonso95/custom-llm](https://github.com/pepealonso95/custom-llm)). I used Claude (Anthropic)
 as my AI assistant: to generate the synthetic teaching sentences, write the two helper scripts and this README's
 tables from the saved outputs, and explain the notebook to me step by step. All runs, numbers and evidence are from my own machine.
+
+<p align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/btn-stages.svg" alt="Back to stage select: github.com/BuildingBrian"></a>
+  <a href="https://buildingbrian.github.io/BuildingBrian/"><img src=".github/arcade/btn-play.svg" alt="Play Vapor Strike, the arcade game behind the profile"></a>
+</p>
+
+<div align="center">
+  <a href="https://github.com/BuildingBrian"><img src=".github/arcade/footer.svg" width="100%" alt="Thank you for playing. A BuildingBrian project."></a>
+</div>
